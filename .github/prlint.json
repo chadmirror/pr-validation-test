@@ -1,0 +1,18 @@
+{
+  "title": [
+    {
+      "pattern": "^\\[?MO\\-\\d+\\]?.{5,}",
+      "message": "Your PR title needs a JIRA ticket number and title"
+    }
+  ],
+  "body": [
+    {
+      "pattern": "MO-\\d+",
+      "message": "You need a JIRA ticket number in your description"
+    },
+    {
+      "pattern": ".{1,}",
+      "message": "You need literally anything in your description"
+    }
+  ]
+}
