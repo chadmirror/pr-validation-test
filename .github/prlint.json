@@ -14,7 +14,7 @@
   "assignee.login": [
     {
       "pattern": ".+",
-      "message": "You need to assign someone"
+      "message": "You need to assign reviewers"
     }
   ]
 }
