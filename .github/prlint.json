@@ -10,5 +10,11 @@
       "pattern": "MO-\\d+",
       "message": "You need a JIRA ticket number in your description"
     }
+  ],
+  "assignee.login": [
+    {
+      "pattern": ".+",
+      "message": "You need to assign someone"
+    }
   ]
 }
