@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">PR Validation Test</string>
-    <string name="x">This PR should succeed</string>
+    <string name="x">This PR should succeed!</string>
 </resources>
