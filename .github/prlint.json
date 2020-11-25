@@ -11,7 +11,7 @@
       "message": "You need a JIRA ticket number in your description"
     }
   ],
-  "assignee.login": [
+  "requested_reviewers.0.login": [
     {
       "pattern": ".+",
       "message": "You need to assign reviewers"
