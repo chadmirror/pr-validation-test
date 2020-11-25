@@ -1,2 +1,0 @@
-name: PR Lint GitHub Action
-uses: seferov/pr-lint-action@v1.1.2
